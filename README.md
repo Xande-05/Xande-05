@@ -40,16 +40,19 @@ Iniciando na programação e estudando Python com o Curso em Vídeo. Atualmente 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Xande-05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xande-05&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Xande-05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Xande-05&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xande-05&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ---
 
 ## 🎯 Projetos em Destaque
 
-### 🚀 [Plataforma Aprimora](https://github.com/Xande-05/Serratec-PlataformaAprimora)
-Projeto Full-Stack do trabalho final do Serratec - Sistema de gestão de aprendizado organizacional
+### 🚀 [Trabalho Final API - Serratec](https://github.com/Xande-05/Serratec-API-TrabalhoFinal)
+Projeto final da disciplina de API do Serratec - Desenvolvimento de API REST completa com Spring Boot
 
 ### 📚 [Meus Códigos Serratec](https://github.com/Xande-05/Serratec-Meus-codigos)
 Repositório com todos os exercícios do bootcamp Serratec
