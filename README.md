@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Iniciando na programação e estudando Python com o Curso em Vídeo. Recentemente conccluí o bootcamp Full-Stack do **Serratec**, focando em desenvolvimento web completo.
+Iniciando na programação e estudando Python com o Curso em Vídeo. Atualmente estou fazendo o bootcamp Full-Stack do **Serratec**, focando em desenvolvimento web completo.
 
 - 🎓 Aluno do bootcamp Serratec 2025.2
 - 💻 Estudando: Java, Spring Boot, TypeScript, React
@@ -61,8 +61,8 @@ Exercícios do curso de Python do Curso em Vídeo
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-licio-342000333/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandy_licio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xandylicio@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xande-05)
 
 </div>
 
