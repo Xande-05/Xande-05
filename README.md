@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmOTF1Y3B4aXFnd2wxM3J1cXAzYjhzMGphNnBvZTk2OXZrajljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"/>
 </div>
 
 <h1 align="center">Olá! 👋 Eu sou o Alexandre Lício</h1>
