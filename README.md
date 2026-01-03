@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ3OHM2cGFpMHloNjRyN2llNDI1ZGFsbGN1NjN0dGUybWZwbGszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 <h1 align="center">Olá! 👋 Eu sou o Alexandre Lício</h1>
@@ -47,6 +47,9 @@ Iniciando na programação e estudando Python com o Curso em Vídeo. Atualmente 
 ---
 
 ## 🎯 Projetos em Destaque
+
+### 🚀 [Plataforma Aprimora](https://github.com/Xande-05/Serratec-PlataformaAprimora)
+Projeto Full-Stack do trabalho final do Serratec - Sistema de gestão de aprendizado organizacional
 
 ### 📚 [Meus Códigos Serratec](https://github.com/Xande-05/Serratec-Meus-codigos)
 Repositório com todos os exercícios do bootcamp Serratec
