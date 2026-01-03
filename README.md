@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmOTF1Y3B4aXFnd2wxM3J1cXAzYjhzMGphNnBvZTk2OXZrajljdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ3OHM2cGFpMHloNjRyN2llNDI1ZGFsbGN1NjN0dGUybWZwbGszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 </div>
 
 <h1 align="center">Olá! 👋 Eu sou o Alexandre Lício</h1>
